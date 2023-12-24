@@ -1,0 +1,129 @@
+2023-12-15 06:30:25,139 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:30:25,179 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:30:25,194 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:31:04,228 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:31:04,584 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:31:14,375 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:31:14,395 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-15 06:31:19,902 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:31:19,920 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-15 06:31:23,312 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:31:23,313 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:31:23,319 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:31:42,350 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:31:42,701 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:31:47,387 - CucumberAutomation -INFO - ******Login passed********
+2023-12-15 06:38:52,630 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:38:52,659 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:38:52,671 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:39:00,110 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:39:00,434 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:39:10,652 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:39:10,666 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-15 06:39:27,209 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:39:27,222 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-15 06:39:28,412 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:39:28,412 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:39:28,413 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:39:33,155 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:39:33,475 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:39:41,399 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:39:41,407 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-15 06:39:47,201 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-15 06:39:47,215 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-15 06:39:48,449 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:39:48,450 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:39:48,452 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:39:55,415 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:39:55,722 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:39:59,805 - CucumberAutomation -INFO - ******Login passed********
+2023-12-15 06:42:34,004 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:42:34,038 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:42:34,054 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:42:38,800 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:42:39,083 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:43:02,724 - CucumberAutomation -INFO - ******Adding new customer********
+2023-12-15 06:43:15,531 - CucumberAutomation -INFO - ******Saving customer Data********
+2023-12-15 06:43:22,047 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:43:22,049 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:43:22,051 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:43:26,431 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:43:26,739 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:43:44,243 - CucumberAutomation -INFO - ******Search cutomer by email id********
+2023-12-15 06:43:46,889 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-15 06:43:46,890 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-15 06:43:46,894 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-15 06:43:52,587 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-15 06:43:52,864 - CucumberAutomation -INFO - ******Started Login********
+2023-12-15 06:44:24,369 - CucumberAutomation -INFO - ******Searching customer by name********
+2023-12-16 08:59:46,350 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 08:59:55,952 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 08:59:55,954 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 08:59:58,843 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:00:00,295 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:00:00,297 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:00:04,449 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:00:05,560 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:00:05,561 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:00:42,480 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:00:44,706 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:00:44,709 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:00:48,893 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-16 09:00:49,215 - CucumberAutomation -INFO - ******Started Login********
+2023-12-16 09:00:55,843 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:00:55,862 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-16 09:01:01,483 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:01:01,497 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-16 09:01:01,874 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:01:03,026 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:01:03,028 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:01:07,231 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-16 09:01:07,632 - CucumberAutomation -INFO - ******Started Login********
+2023-12-16 09:01:14,097 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:01:14,110 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-16 09:01:20,243 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:01:20,252 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-16 09:01:20,674 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:01:21,987 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:01:21,989 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:01:27,885 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-16 09:01:28,167 - CucumberAutomation -INFO - ******Started Login********
+2023-12-16 09:01:34,398 - CucumberAutomation -INFO - ******Login passed********
+2023-12-16 09:05:22,093 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:05:22,298 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:05:22,354 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:15:22,362 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:15:41,766 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-16 09:15:43,425 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-16 09:15:43,428 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-16 09:15:48,041 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-16 09:15:48,312 - CucumberAutomation -INFO - ******Started Login********
+2023-12-16 09:15:54,291 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:15:54,305 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-16 09:15:59,974 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-16 09:15:59,993 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-17 21:28:40,649 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-17 21:28:47,575 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-17 21:28:47,584 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-17 21:28:53,677 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-17 21:28:53,984 - CucumberAutomation -INFO - ******Started Login********
+2023-12-17 21:29:05,893 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-17 21:29:05,911 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-17 21:29:11,749 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-17 21:29:11,761 - CucumberAutomation -INFO - ******Closing Browser********
+2023-12-17 21:31:41,199 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-17 21:31:42,668 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-17 21:31:42,676 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-17 21:31:47,493 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-17 21:31:47,784 - CucumberAutomation -INFO - ******Started Login********
+2023-12-17 21:32:07,896 - CucumberAutomation -INFO - ******Adding new customer********
+2023-12-17 21:32:21,514 - CucumberAutomation -INFO - ******Saving customer Data********
+2023-12-17 21:32:27,152 - CucumberAutomation -INFO - ******Launching Browser********
+2023-12-17 21:32:28,254 - CucumberAutomation -INFO - *********  Launching URL*********
+2023-12-17 21:32:28,258 - CucumberAutomation -INFO - ******Opening URL********
+2023-12-17 21:32:32,331 - CucumberAutomation -INFO - ******Providing Valid User Details********
+2023-12-17 21:32:32,598 - CucumberAutomation -INFO - ******Started Login********
+2023-12-17 21:32:38,296 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-17 21:32:38,308 - CucumberAutomation -INFO - ******click on Logout Link********
+2023-12-17 21:32:43,958 - CucumberAutomation -INFO - ******Login Failed********
+2023-12-17 21:32:43,967 - CucumberAutomation -INFO - ******Closing Browser********
